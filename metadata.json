@@ -1,0 +1,5 @@
+{
+  "name": "Fukuoka Travel Planner",
+  "description": "A travel calendar app for a trip to Fukuoka, Japan from August 10th to 13th. Users can manage their schedule by time for each day and get recommendations for restaurants and travel itineraries powered by Gemini.",
+  "requestFramePermissions": []
+}
